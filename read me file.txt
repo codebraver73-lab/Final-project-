@@ -1,0 +1,39 @@
+Student information:
+-Student name: Joud Bassel Naji
+
+
+
+website name: 
+ -T-care a medical equipment's digital store.
+
+Description:
+-This website is named "Naji press" , its purpose is to gather trusted sites to get news using an API that brings thousands of articles.
+
+technologies used:
+-HTML
+-JAVA SCRIPT
+-CSS
+
+How to use this project:
+-Open index.html. 
+-Scroll down to read some articles.
+-Navigate using the nav-bar Throughout politics , sports economy and science and technology.
+-Click on articles you like to go to the article in the magazine.
+-Use the discussion page to discuss your opinion with others.
+
+Places were I use local storage:
+-Discussion section in every page
+
+API's used:
+-OpenWeather API
+-NewsData.io API
+-Leaflet with OpenStreetMap
+-YouTube Data API v3.
+
+
+
+
+
+
+
+ 
